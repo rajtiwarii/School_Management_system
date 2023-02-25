@@ -654,6 +654,6 @@ b=PhotoImage(file='Start Button.gif')
 
 Button(window,image=b,command=start,bd=-5).place(x=410,y=490)
 
-Label(window,text='Contact Us\n Developer:\nAnshraj Shrivastava\n(171B035)\nJUET,Guna(M.P)',font=("Times New",15)).place(x=1090,y=0)
+Label(window,text='Contact Us\n Developer:\nraj\n(171B035)\nJUET,Lucknow(U.P)',font=("Times New",15)).place(x=1090,y=0)
 
 window.mainloop()
